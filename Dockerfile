@@ -1,3 +1,9 @@
+# The working directory should have a .js file
+# Ex
+# console.log("Hello docker!"); # In js file
+# Dockerfile with this code (whole)
+
+
 FROM node:alpine 
 # alpine-linux disrto (like an OS)
 
