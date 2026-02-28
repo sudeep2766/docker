@@ -1,0 +1,7 @@
+Building a docker image:
+>docker build -t <imagename> .
+               ^             ^
+               |             |
+              tag     Dockerfile location
+Run:
+>docker run <imagename>
